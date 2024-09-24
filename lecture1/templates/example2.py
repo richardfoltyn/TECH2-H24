@@ -1,4 +1,6 @@
 """
+Part 2, Lecture 1, Example 2
+
 Solve a two-period optimal bun-eating problem using only built-in Python 
 functions.
 """

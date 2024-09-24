@@ -1,4 +1,6 @@
 """
+Part 2, Lecture 1, Example 3
+
 Solve a two-period optimal bun-eating problem using NumPy.
 """
 
