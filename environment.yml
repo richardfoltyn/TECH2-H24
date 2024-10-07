@@ -1,4 +1,4 @@
-name: TECH2-part2
+name: TECH2
 channels:
   - defaults
 dependencies:
@@ -8,3 +8,4 @@ dependencies:
   - matplotlib=3.8
   - pandas=2.2
   - openpyxl=3.1
+  - notebook
