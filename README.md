@@ -12,8 +12,8 @@ Author: Richard Foltyn
 
 | Week | Day | Title | Links | 
 |------|-----|-------|---------------|
-| 39   | Wed | Introduction to git & GitHub | [Lecture slides](lecture1/lecture1.pdf), [Solutions](lecture1/solutions/) |
-|      | Fri | Introduction to git & GitHub | [Lecture slides](lecture1/lecture1.pdf), [Solutions](lecture1/solutions/) |
+| 39   | Wed | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf), [Solutions](lecture1/solutions/) |
+|      | Fri | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf), [Solutions](lecture1/solutions/) |
 | 41   | Wed | Introduction to pandas       | [Lecture slides](lecture2/slides2.pdf), [Notebook](lecture2/lecture2.ipynb), [Notebook as PDF](lecture2/lecture2.pdf) |
 
 
