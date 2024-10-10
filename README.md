@@ -14,7 +14,9 @@ Author: Richard Foltyn
 |------|-----|-------|---------------|
 | 39   | Wed | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf), [Solutions](lecture1/solutions/) |
 |      | Fri | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf), [Solutions](lecture1/solutions/) |
+| 40   | Wed | Assignment Q&A               | N/A |
 | 41   | Wed | Introduction to pandas       | [Lecture slides](lecture2/slides2.pdf), [Notebook](lecture2/lecture2.ipynb), [Notebook as PDF](lecture2/lecture2.pdf) |
+|      | Fri | Data cleaning & strings      | [Exercises](workshop2/workshop2.pdf), [Notebook](workshop2/workshop2.ipynb) |
 
 
 ## Forking & Cloning
@@ -25,7 +27,7 @@ Author: Richard Foltyn
 
 
 
-## Licence
+## License
 
 This material is licensed under a 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/),
