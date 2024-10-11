@@ -10,13 +10,13 @@ Author: Richard Foltyn
 
 ## Course outline for Part 2
 
-| Week | Day | Title | Links | 
-|------|-----|-------|---------------|
-| 39   | Wed | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf), [Solutions](lecture1/solutions/) |
-|      | Fri | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf), [Solutions](lecture1/solutions/) |
-| 40   | Wed | Assignment Q&A               | N/A |
-| 41   | Wed | Introduction to pandas       | [Lecture slides](lecture2/slides2.pdf), [Notebook](lecture2/lecture2.ipynb), [Notebook as PDF](lecture2/lecture2.pdf) |
-|      | Fri | Data cleaning & strings      | [Exercises](workshop2/workshop2.pdf), [Notebook](workshop2/workshop2.ipynb) |
+| Week | Day | Title | Notes & Exercises | Solutions |
+|------|-----|-------|----------------------|------------------------------------------|
+| 39   | Wed | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf) | [Solutions](lecture1/solutions/) |
+|      | Fri | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf) | [Solutions](lecture1/solutions/) |
+| 40   | Wed | Assignment Q&A               | N/A | |
+| 41   | Wed | Introduction to pandas       | [Slides](lecture2/slides2.pdf), [Notebook](lecture2/lecture2.ipynb), [PDF](lecture2/lecture2.pdf) | |
+|      | Fri | Data cleaning & strings      | [Notebook](workshop2/workshop2.ipynb), [PDF](workshop2/workshop2.pdf) | [Notebook](workshop2/workshop2-solution.ipynb), [PDF](workshop2/workshop2-solution.pdf)
 
 
 ## Forking & Cloning
