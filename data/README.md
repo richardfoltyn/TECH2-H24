@@ -35,3 +35,26 @@ This folder contains various data sets used during the lectures and workshops.
 
 - `FRED.xlsx`: Same contents as `FRED.csv`, stored in Excel format.
 - `FRED_monthly.csv`: Contains the same columns as `FRED.csv` but as monthly frequency.
+- `ames_houses.csv`: Housing data from Ames, Iowa. 
+
+    Based on the data provided by Kuhn (2020) on [CRAN](https://cran.r-project.org/web/packages/AmesHousing/index.html)
+
+   The data was originally published in
+   _De Cock (2011): "Ames, Iowa: Alternative to the Boston Housing Data as an End of Semester Regression Project",
+   Journal of Statistics Education, 19(3). DOI: [https://doi.org/10.1080/10691898.2011.11889627](https://doi.org/10.1080/10691898.2011.11889627)_ 
+
+   Variables:
+   
+    1.  `SalePrice`: House price in US dollars (float)
+    2.  `LotArea`: Size of the lot in m² (float)
+    3.  `Neighborhood`: Name of the neighborhood (string)
+    4.  `BuildingType`: Type of building (categorical stored as string)
+    5.  `OverallQuality`: Rates the overall condition of the house from (1) "very poor" to (10) "excellent" (integer)
+    6.  `OverallCondition`: Rates the overall material and finish of the house from (1) "very poor" to (10) "excellent" (integer)
+    7.  `YearBuilt`: Original construction date (integer)
+    8.  `CentralAir`: Central air conditioning: Yes/No (categorical string)
+    9.  `LivingArea`: Above-ground living area in m² (float)
+    10. `Bathrooms`: Number of bathrooms (integer)
+    11. `Bedrooms`: Number of bedrooms (integer)
+    12. `Fireplaces`: Number of fireplaces (integer)
+    13. `HasGarage`: Indicator whether house has a garage (integer)
