@@ -34,7 +34,20 @@ This folder contains various data sets used during the lectures and workshops.
     4.  `FEDFUNDS`: Effective Federal Funds Rate in percent ([FEDFUNDS](https://fred.stlouisfed.org/series/FEDFUNDS))
 
 - `FRED.xlsx`: Same contents as `FRED.csv`, stored in Excel format.
-- `FRED_monthly.csv`: Contains the same columns as `FRED.csv` but as monthly frequency.
+- `FRED_monthly.csv`: 
+    Contains _monthly_ data from [FRED](https://fred.stlouisfed.org/),
+    a standard data source for macroeconomic time series.
+
+    Variables:
+
+    1.  `CPI`: Consumer Price Index for All Urban Consumers: All Items in U.S. City Average
+        ([CPIAUCSL](https://fred.stlouisfed.org/series/CPIAUCSL)).
+        Price level is normalised so that the average in 1982-1984 is 100.
+    2.  `UNRATE`: Unemployment rate in percent ([UNRATE](https://fred.stlouisfed.org/series/UNRATE))
+    3.  `FEDFUNDS`: Effective Federal Funds Rate in percent ([FEDFUNDS](https://fred.stlouisfed.org/series/FEDFUNDS))
+    4.  `REALRATE`: 1-Year Real Interest Rate in percent ([REAINTRATREARAT1YE](https://fred.stlouisfed.org/series/REAINTRATREARAT1YE))
+    5.  `LFPART`: Labor Force Participation Rate in percent ([CIVPART](https://fred.stlouisfed.org/series/CIVPART))
+
 - `ames_houses.csv`: Housing data from Ames, Iowa. 
 
     Based on the data provided by Kuhn (2020) on [CRAN](https://cran.r-project.org/web/packages/AmesHousing/index.html)
