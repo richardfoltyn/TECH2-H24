@@ -19,6 +19,8 @@ Author: Richard Foltyn
 |      | Fri | Data cleaning & strings      | [Notebook](workshop2/workshop2.ipynb), [PDF](workshop2/workshop2.pdf) | [Notebook](workshop2/workshop2-solutions.ipynb), [PDF](workshop2/workshop2-solutions.pdf)
 | 42   | Wed | Aggregation & time series    | [Notebook](lecture3/lecture3.ipynb), [PDF](lecture3/lecture3.pdf) | [Notebook](lecture3/lecture3-solutions.ipynb), [PDF](lecture3/lecture3-solutions.pdf) |
 |      | Fri | Aggregation & time series    | [Notebook](workshop3/workshop3.ipynb), [PDF](workshop3/workshop3.pdf) | [Notebook](workshop3/workshop3-solutions.ipynb), [PDF](workshop3/workshop3-solutions.pdf) |
+| 43   | Wed | Concatenation & merging      | [Notebook](lecture4/lecture4.ipynb), [PDF](lecture4/lecture4.pdf) |  |
+
 
 ## Forking & Cloning
 
