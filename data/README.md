@@ -71,3 +71,7 @@ This folder contains various data sets used during the lectures and workshops.
     11. `Bedrooms`: Number of bedrooms (integer)
     12. `Fireplaces`: Number of fireplaces (integer)
     13. `HasGarage`: Indicator whether house has a garage (integer)
+    
+- `DJIA.csv`: Daily closing price of the Dow Jones Industrial Average since 2020-01-02, obtained from Yahoo! Finance
+- `SP500.csv`: Daily closing price of the S&P 500 since 2020-01-02, obtained from Yahoo! Finance
+- `NASDAQ.csv`: Daily closing price of the NASDAQ composite since 2020-01-02, obtained from Yahoo! Finance
