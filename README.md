@@ -20,7 +20,7 @@ Author: Richard Foltyn
 | 42   | Wed | Aggregation & time series    | [Notebook](lecture3/lecture3.ipynb), [PDF](lecture3/lecture3.pdf) | [Notebook](lecture3/lecture3-solutions.ipynb), [PDF](lecture3/lecture3-solutions.pdf) |
 |      | Fri | Aggregation & time series    | [Notebook](workshop3/workshop3.ipynb), [PDF](workshop3/workshop3.pdf) | [Notebook](workshop3/workshop3-solutions.ipynb), [PDF](workshop3/workshop3-solutions.pdf) |
 | 43   | Wed | Concatenation & merging      | [Notebook](lecture4/lecture4.ipynb), [PDF](lecture4/lecture4.pdf) |  |
-|      | Fri | Concatenation & merging      | [Notebook](workshop4/workshop4.ipynb), [PDF](workshop4/workshop4.pdf) | |
+|      | Fri | Concatenation & merging      | [Notebook](workshop4/workshop4.ipynb), [PDF](workshop4/workshop4.pdf) | [Notebook](workshop4/workshop4-solutions.ipynb), [PDF](workshop4/workshop4-solutions.pdf) |
 
 ## Forking & Cloning
 
