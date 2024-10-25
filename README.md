@@ -10,17 +10,17 @@ Author: Richard Foltyn
 
 ## Course outline for Part 2
 
-| Week | Day | Title | Notes & Exercises | Solutions |
+| Week | Day | Topic | Notes & Exercises | Solutions |
 |------|-----|-------|----------------------|------------------------------------------|
-| 39   | Wed | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf) | [Solutions](lecture1/solutions/) |
-|      | Fri | Introduction to git & GitHub | [Lecture slides](lecture1/slides1.pdf) | [Solutions](lecture1/solutions/) |
+| 39   | Wed | Introduction to git & GitHub | [Slides](lecture1/slides1.pdf) | [Solutions](lecture1/solutions/) |
+|      | Fri | Introduction to git & GitHub | [Slides](lecture1/slides1.pdf) | [Solutions](lecture1/solutions/) |
 | 40   | Wed | Assignment Q&A               | N/A | |
 | 41   | Wed | Introduction to pandas       | [Slides](lecture2/slides2.pdf), [Notebook](lecture2/lecture2.ipynb), [PDF](lecture2/lecture2.pdf) | |
 |      | Fri | Data cleaning & strings      | [Notebook](workshop2/workshop2.ipynb), [PDF](workshop2/workshop2.pdf) | [Notebook](workshop2/workshop2-solutions.ipynb), [PDF](workshop2/workshop2-solutions.pdf)
 | 42   | Wed | Aggregation & time series    | [Notebook](lecture3/lecture3.ipynb), [PDF](lecture3/lecture3.pdf) | [Notebook](lecture3/lecture3-solutions.ipynb), [PDF](lecture3/lecture3-solutions.pdf) |
 |      | Fri | Aggregation & time series    | [Notebook](workshop3/workshop3.ipynb), [PDF](workshop3/workshop3.pdf) | [Notebook](workshop3/workshop3-solutions.ipynb), [PDF](workshop3/workshop3-solutions.pdf) |
 | 43   | Wed | Concatenation & merging      | [Notebook](lecture4/lecture4.ipynb), [PDF](lecture4/lecture4.pdf) |  |
-
+|      | Fri | Concatenation & merging      | [Notebook](workshop4/workshop4.ipynb), [PDF](workshop4/workshop4.pdf) | |
 
 ## Forking & Cloning
 
