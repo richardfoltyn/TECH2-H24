@@ -102,4 +102,8 @@ This folder contains various data sets used during the lectures and workshops.
 - `SP500.csv`: Daily closing price of the S&P 500 since 2020-01-02, obtained from Yahoo! Finance
 - `NASDAQ.csv`: Daily closing price of the NASDAQ composite since 2020-01-02, obtained from Yahoo! Finance
 - `indices.csv`: Daily values of DJIA, SP500 and NASDAQ in long format using tabs as separators
-
+- `AAPL.csv`: Daily closing price of Apple Inc.
+- `GOOG.csv`: Daily closing price of Alphabet Inc. (Google)
+- `MSFT.csv`: Daily closing price of Microsoft Inc.
+- `NVDA.csv`: Daily closing price of Nvidia Inc.
+- `TSLA.csv`: Daily closing price of Tesla Inc.
