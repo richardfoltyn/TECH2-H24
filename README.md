@@ -22,7 +22,7 @@ Author: Richard Foltyn
 | 43   | Wed | Concatenation & merging      | [Notebook](lecture4/lecture4.ipynb), [PDF](lecture4/lecture4.pdf) | [Notebook](lecture4/lecture4-solutions.ipynb), [PDF](lecture4/lecture4-solutions.pdf) |
 |      | Fri | Concatenation & merging      | [Notebook](workshop4/workshop4.ipynb), [PDF](workshop4/workshop4.pdf) | [Notebook](workshop4/workshop4-solutions.ipynb), [PDF](workshop4/workshop4-solutions.pdf) |
 | 44   | Wed | Plotting                     | [Notebook](lecture5/lecture5.ipynb), [PDF](lecture5/lecture5.pdf) | [Notebook](lecture5/lecture5-solutions.ipynb), [PDF](lecture5/lecture5-solutions.pdf) |
-|      | Fri | Plotting                     | [Notebook](workshop5/workshop5.ipynb), [PDF](workshop5/workshop5.pdf) |  TBA |
+|      | Fri | Plotting                     | [Notebook](workshop5/workshop5.ipynb), [PDF](workshop5/workshop5.pdf) | [Notebook](workshop5/workshop5-solutions.ipynb), [PDF](workshop5/workshop5-solutions.pdf) |
 
 ## Forking & Cloning
 
